@@ -18,7 +18,7 @@
 ##############################
 text_color_theme: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 url: https://czjie.czjie.top # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl: /blog # does not include hostname
+baseurl: / # does not include hostname
 title: 沙漠鳄鱼
 description: > # this means to ignore newlines until "Language & timezone"
   czjie's Blog
