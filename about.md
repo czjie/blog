@@ -14,6 +14,15 @@ Welcome to my blog! :earth_asia: :earth_africa: :earth_americas:
 (() => console.log('hello, world!'))();
 {% endhighlight %}
 
+
+{% highlight sql %}
+
+--测试内容
+select * from sys_p_user;
+/* 这个是一个神奇的测试内容 */
+
+{% endhighlight %}
+
 ## Skills
 
 - HTML5, CSS3(SASS), JavaScript(ES2017, Node.js), Bash(Zsh)
