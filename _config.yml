@@ -112,10 +112,11 @@ disqus:
 gitalk:
   clientID: 0673efefd67205b73d1a # GitHub Application Client ID
   clientSecret: 30ed6be0e0389c3f5073569199f03a911be88372 # GitHub Application Client Secret
-  repository: https://github.com/czjie/blog.git # GitHub repo
+  repository: gitalk-demo # GitHub repo
   owner: czjie # GitHub repo owner
-  admin: czjie # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
+  admin:  # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
     # - your GitHub Id
+    -czjie
 
 
 ## => Pageview
