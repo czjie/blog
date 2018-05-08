@@ -20,4 +20,4 @@ tags: Sublime 快捷键
 
 
 # 相同字符选择
-CTRL+D
+CTRL+D 
