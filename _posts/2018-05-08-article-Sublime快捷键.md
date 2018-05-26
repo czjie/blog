@@ -34,3 +34,5 @@ tags: Sublime 快捷键
 
 ### 搜索
 - 选中后搜索所有：Command+e
+
+
